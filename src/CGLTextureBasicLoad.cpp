@@ -23,7 +23,7 @@ CGLTextureBasicLoad::~CGLTextureBasicLoad()
 }
 void CGLTextureBasicLoad::GLInit()
 {
-    glClearColor(0.3, 0.0, 0.0, 0.0);
+    glClearColor(0.3, 0.0, 0.0, 0.0f);
 
     glEnable(GL_DEPTH_TEST);
     glEnable(GL_TEXTURE_2D);
