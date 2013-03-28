@@ -1,0 +1,364 @@
+# depslib dependency file v1.0
+1364270002 source:e:\program files\codeblocks\vu\study\spinspindle\main.cpp
+	<iostream>
+	"COGLImplement.h"
+
+1362728714 e:\program files\codeblocks\vu\study\spinspindle\include\coglimplement.h
+	"GL/glu.h"
+	"GL/glut.h"
+	"COGLDrawPixel.h"
+	"CGLTextureBasicLoad.h"
+	"CGLTextureSprite.h"
+
+1301111164 e:\program files\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1301111164 e:\program files\codeblocks\mingw\include\gl\gl.h
+
+903432286 e:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111162 e:\program files\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 e:\program files\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 e:\program files\codeblocks\mingw\include\winuser.h
+
+1301111162 e:\program files\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 e:\program files\codeblocks\mingw\include\winerror.h
+
+1341010376 e:\program files\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010370 e:\program files\codeblocks\mingw\include\_mingw.h
+
+1301111148 e:\program files\codeblocks\mingw\include\basetsd.h
+
+1301111156 e:\program files\codeblocks\mingw\include\pshpack4.h
+
+1301111156 e:\program files\codeblocks\mingw\include\poppack.h
+
+1301111164 e:\program files\codeblocks\mingw\include\winver.h
+
+1301111148 e:\program files\codeblocks\mingw\include\dde.h
+
+1301111150 e:\program files\codeblocks\mingw\include\dlgs.h
+
+1301111148 e:\program files\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 e:\program files\codeblocks\mingw\include\prsht.h
+
+1301111162 e:\program files\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 e:\program files\codeblocks\mingw\include\wincon.h
+
+1301111160 e:\program files\codeblocks\mingw\include\winbase.h
+
+1301111162 e:\program files\codeblocks\mingw\include\wingdi.h
+
+1301111162 e:\program files\codeblocks\mingw\include\winnls.h
+
+1301111162 e:\program files\codeblocks\mingw\include\winnetwk.h
+
+1301111162 e:\program files\codeblocks\mingw\include\winreg.h
+
+1301111164 e:\program files\codeblocks\mingw\include\winsvc.h
+
+1301111148 e:\program files\codeblocks\mingw\include\cderr.h
+
+1301111148 e:\program files\codeblocks\mingw\include\ddeml.h
+
+1301111150 e:\program files\codeblocks\mingw\include\imm.h
+
+1301111154 e:\program files\codeblocks\mingw\include\lzexpand.h
+
+1301111154 e:\program files\codeblocks\mingw\include\mmsystem.h
+
+1301111154 e:\program files\codeblocks\mingw\include\nb30.h
+
+1301111158 e:\program files\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 e:\program files\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 e:\program files\codeblocks\mingw\include\basetyps.h
+
+1301111158 e:\program files\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 e:\program files\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 e:\program files\codeblocks\mingw\include\rpcnterr.h
+
+1341010372 e:\program files\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 e:\program files\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 e:\program files\codeblocks\mingw\include\pshpack2.h
+
+1301111162 e:\program files\codeblocks\mingw\include\winperf.h
+
+1301111148 e:\program files\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 e:\program files\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 e:\program files\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 e:\program files\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 e:\program files\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 e:\program files\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 e:\program files\codeblocks\mingw\include\winspool.h
+
+1301111162 e:\program files\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 e:\program files\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 e:\program files\codeblocks\mingw\include\mswsock.h
+
+1301111156 e:\program files\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 e:\program files\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341010376 e:\program files\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 e:\program files\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 e:\program files\codeblocks\mingw\include\cguid.h
+
+1301111156 e:\program files\codeblocks\mingw\include\olectlid.h
+
+1301111156 e:\program files\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 e:\program files\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 e:\program files\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1362635868 e:\program files\codeblocks\vu\study\spinspindle\include\cogldrawpixel.h
+	"GL/glu.h"
+	"GL/glut.h"
+
+1364451888 e:\program files\codeblocks\vu\study\spinspindle\include\cgltexturebasicload.h
+	"GL/glu.h"
+	"GL/glut.h"
+	"CTargaImage.h"
+	"CBMPImage.h"
+	"timer.h"
+
+1362989416 e:\program files\codeblocks\vu\study\spinspindle\include\ctargaimage.h
+
+1364266787 e:\program files\codeblocks\vu\study\spinspindle\include\cbmpimage.h
+	<iostream>
+	<cstdio>
+	<string>
+
+1364457113 e:\program files\codeblocks\vu\study\spinspindle\include\timer.h
+	<windows.h>
+
+1363840612 e:\program files\codeblocks\vu\study\spinspindle\include\cgltexturesprite.h
+	"GL/glu.h"
+	"GL/glut.h"
+	"CTargaImage.h"
+	"timer.h"
+	"CSpriteSheet.h"
+
+1363070946 e:\program files\codeblocks\vu\study\spinspindle\include\cspritesheet.h
+	"GL/glu.h"
+	"GL/glut.h"
+	"GL/gl.h"
+
+1364267644 source:e:\program files\codeblocks\vu\study\spinspindle\src\cbmpimage.cpp
+	"CBMPImage.h"
+
+1364456024 source:e:\program files\codeblocks\vu\study\spinspindle\src\cgltexturebasicload.cpp
+	"CGLTextureBasicLoad.h"
+
+1363840612 source:e:\program files\codeblocks\vu\study\spinspindle\src\cgltexturesprite.cpp
+	"CGLTextureSprite.h"
+
+1362635852 source:e:\program files\codeblocks\vu\study\spinspindle\src\cogldrawpixel.cpp
+	"COGLDrawPixel.h"
+
+1362984882 source:e:\program files\codeblocks\vu\study\spinspindle\src\cspritesheet.cpp
+	"CSpriteSheet.h"
+
+1362989416 source:e:\program files\codeblocks\vu\study\spinspindle\src\ctargaimage.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CTargaImage.h"
+
+1341010376 e:\program files\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341010380 e:\program files\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1364451614 source:e:\program files\codeblocks\vu\study\spinspindle\src\coglimplement.cpp
+	"COGLImplement.h"
+
+1364270002 source:e:\program files\codeblocks\vu\study\opengl_spinmoving\main.cpp
+	<iostream>
+	"COGLImplement.h"
+
+1362728714 e:\program files\codeblocks\vu\study\opengl_spinmoving\include\coglimplement.h
+	"GL/glu.h"
+	"GL/glut.h"
+	"COGLDrawPixel.h"
+	"CGLTextureBasicLoad.h"
+	"CGLTextureSprite.h"
+
+1362635868 e:\program files\codeblocks\vu\study\opengl_spinmoving\include\cogldrawpixel.h
+	"GL/glu.h"
+	"GL/glut.h"
+
+1364451888 e:\program files\codeblocks\vu\study\opengl_spinmoving\include\cgltexturebasicload.h
+	"GL/glu.h"
+	"GL/glut.h"
+	"CTargaImage.h"
+	"CBMPImage.h"
+	"timer.h"
+
+1362989416 e:\program files\codeblocks\vu\study\opengl_spinmoving\include\ctargaimage.h
+
+1364266787 e:\program files\codeblocks\vu\study\opengl_spinmoving\include\cbmpimage.h
+	<iostream>
+	<cstdio>
+	<string>
+
+1364457113 e:\program files\codeblocks\vu\study\opengl_spinmoving\include\timer.h
+	<windows.h>
+
+1363840612 e:\program files\codeblocks\vu\study\opengl_spinmoving\include\cgltexturesprite.h
+	"GL/glu.h"
+	"GL/glut.h"
+	"CTargaImage.h"
+	"timer.h"
+	"CSpriteSheet.h"
+
+1363070946 e:\program files\codeblocks\vu\study\opengl_spinmoving\include\cspritesheet.h
+	"GL/glu.h"
+	"GL/glut.h"
+	"GL/gl.h"
+
+1364267644 source:e:\program files\codeblocks\vu\study\opengl_spinmoving\src\cbmpimage.cpp
+	"CBMPImage.h"
+
+1364459904 source:e:\program files\codeblocks\vu\study\opengl_spinmoving\src\cgltexturebasicload.cpp
+	"CGLTextureBasicLoad.h"
+
+1363840612 source:e:\program files\codeblocks\vu\study\opengl_spinmoving\src\cgltexturesprite.cpp
+	"CGLTextureSprite.h"
+
+1362635852 source:e:\program files\codeblocks\vu\study\opengl_spinmoving\src\cogldrawpixel.cpp
+	"COGLDrawPixel.h"
+
+1364451614 source:e:\program files\codeblocks\vu\study\opengl_spinmoving\src\coglimplement.cpp
+	"COGLImplement.h"
+
+1362984882 source:e:\program files\codeblocks\vu\study\opengl_spinmoving\src\cspritesheet.cpp
+	"CSpriteSheet.h"
+
+1362989416 source:e:\program files\codeblocks\vu\study\opengl_spinmoving\src\ctargaimage.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CTargaImage.h"
+
